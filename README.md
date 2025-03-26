@@ -87,7 +87,3 @@ python3 led_control.py -p /dev/ttyUSB0 --custom --mode 2 --brightness 3 --speed 
 ```bash
 python3 led_control.py -p /dev/ttyS0 --preset off
 ```
-
-## Лицензия
-
-Этот проект распространяется под лицензией MIT. Подробности см. в файле LICENSE.
